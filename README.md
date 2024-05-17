@@ -5,11 +5,19 @@
 
 [2] A directory was created named **Code** folder in which it contains 7 python files named as **train_val**, **test-scores**, **utils**, **models**, **features**, **beamsearch_utils**, **embeddings**. 
 
-[3] Stored the files in Data by downlaoding it from the link [here](https://huggingface.co/datasets/nlphuji/flickr30k)
+[3] Stored the files in Data by downlaoding it from the link [here](https://drive.google.com/drive/folders/1s7HIloRjuMqaKjntzzXM3nvUs2JYp2rL?usp=drive_link) 
 
-[4] Download the GloVec params from this link [here]https://nlp.stanford.edu/data/glove.6B.zip for word embedding
+[4] After downlaoding take the Data Folder take ththe sub folder an as the path is important. whihc is in this format ![alt text](image-1.png)
+Structure of the code
+Code
+Data(the downoaded file from drive should be used in this way)
+Features
+Generated_files
+outputfiles
 
+[5] Download the GloVec params from this link [here]https://nlp.stanford.edu/data/glove.6B.zip for word embedding
 
+[6] I Have also attached differnt files so that it can run faster
 ## Method: Run in Local Machine
 
 [1] Download the project files from the data mining directory, by clicking the download present [here.](https://drive.google.com/drive/folders/1Aw1vaAMupU_F-OGiN-wsMdwpvwQAlOuS?usp=sharing)
